@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-demo/smart-demo-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-demo/smart-demo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-demo/smart-demo-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-sso/smart-sso-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-sso/smart-sso-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-static" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-tool" charset="UTF-8" />
+  </component>
+</project>

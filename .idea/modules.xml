@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smart.iml" filepath="$PROJECT_DIR$/smart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-demo/smart-demo.iml" filepath="$PROJECT_DIR$/smart-demo/smart-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-demo/smart-demo-api/smart-demo-api.iml" filepath="$PROJECT_DIR$/smart-demo/smart-demo-api/smart-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-demo/smart-demo-server/smart-demo-server.iml" filepath="$PROJECT_DIR$/smart-demo/smart-demo-server/smart-demo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-demo/smart-demo-web/smart-demo-web.iml" filepath="$PROJECT_DIR$/smart-demo/smart-demo-web/smart-demo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-mvc/smart-mvc.iml" filepath="$PROJECT_DIR$/smart-mvc/smart-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-sso/smart-sso.iml" filepath="$PROJECT_DIR$/smart-sso/smart-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-sso/smart-sso-client/smart-sso-client.iml" filepath="$PROJECT_DIR$/smart-sso/smart-sso-client/smart-sso-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-sso/smart-sso-server/smart-sso-server.iml" filepath="$PROJECT_DIR$/smart-sso/smart-sso-server/smart-sso-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-static/smart-static.iml" filepath="$PROJECT_DIR$/smart-static/smart-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-tool/smart-tool.iml" filepath="$PROJECT_DIR$/smart-tool/smart-tool.iml" />
+    </modules>
+  </component>
+</project>

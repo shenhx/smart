@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="smart-demo-api" />
+        <module name="smart-demo-server" />
+        <module name="smart-demo-web" />
+        <module name="smart-mvc" />
+        <module name="smart-sso-client" />
+        <module name="smart-sso-server" />
+        <module name="smart-static" />
+        <module name="smart-tool" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="smart" target="1.8" />
+      <module name="smart-demo" target="1.8" />
+      <module name="smart-demo-api" target="1.8" />
+      <module name="smart-demo-server" target="1.8" />
+      <module name="smart-demo-web" target="1.8" />
+      <module name="smart-mvc" target="1.8" />
+      <module name="smart-sso" target="1.8" />
+      <module name="smart-sso-client" target="1.8" />
+      <module name="smart-sso-server" target="1.8" />
+      <module name="smart-static" target="1.8" />
+      <module name="smart-tool" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
